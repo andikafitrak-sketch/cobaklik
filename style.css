@@ -447,3 +447,12 @@ footer {
         scroll-behavior: auto !important;
     }
 }
+
+.foto-kenangan {
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+    border-radius: 15px;
+}
